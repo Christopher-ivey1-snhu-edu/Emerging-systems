@@ -16,4 +16,4 @@
 //I will use analyzing and following industry standards to create embedded systems. This is something I will use on future proejcts and/or coursework.
 
 6. How did you make this project maintainable, readable, and adaptable?
-//The code that was used to develop the project made it readable and adaptpable.
+//The code that was used to develop the project made it readable and adaptable.
